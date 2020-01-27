@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ITEAHub.FirstMillionaire.Contractor\ITEAHub.FirstMillionaire.Contractor.csproj" />
+    <ProjectReference Include="..\ITEAHub.Millionaire.DataObjects\ITEAHub.FirstMillionaire.DataObjects.csproj" />
+    <ProjectReference Include="..\ITEAHub.Millionaire.DataSourse\ITEAHub.Millionaire.DataSourse.csproj" />
+  </ItemGroup>
+
+</Project>
